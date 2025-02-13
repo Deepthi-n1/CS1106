@@ -1,0 +1,15 @@
+
+1.How do you change the mode from edit to read only?
+A1. ESC
+
+2.How do you a)save a file you are editing, and b)close the file youu're editing?
+A2.a) To save to editing file wq
+   b) to close the file edited q
+
+3.How do you delete a)letter b)word c)sentence?
+A3.a)press x
+   b)press dw
+   c)press d$
+
+4.you'er editing the document (in edit mode).explain hoe you'll replace one word with another?
+A4.Move to cursor on the starting of the word which is to be replaced click on r and then type the right word 
